@@ -1,10 +1,10 @@
 # zsel-infrastructure CODEOWNERS
 
-hardware/                 @infrastructure-team @hardware-leads
-network/                  @network-team
-power/                    @facilities-team
-documentation/            @runbook-team
+hardware/                 @infrastructure-team @hardware-leads @lkolo-prez
+network/                  @network-team @lkolo-prez
+power/                    @facilities-team @lkolo-prez
+documentation/            @runbook-team @lkolo-prez
 
-terraform/                @platform-team @devops-team
+terraform/                @platform-team @devops-team @lkolo-prez
 
-CONTRIBUTING.md           @infrastructure-team
+CONTRIBUTING.md           @infrastructure-team @lkolo-prez

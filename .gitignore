@@ -1,0 +1,24 @@
+# Terraform
+terraform/
+.terraform/
+*.tfstate
+*.tfstate.*
+.terraform.lock.hcl
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Credentials
+*.key
+*.pem
+secrets/
+kubeconfig
+
+# Temporary
+*.tmp
+.cache/

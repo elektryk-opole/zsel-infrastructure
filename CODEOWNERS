@@ -1,0 +1,10 @@
+# zsel-infrastructure CODEOWNERS
+
+hardware/                 @infrastructure-team @hardware-leads
+network/                  @network-team
+power/                    @facilities-team
+documentation/            @runbook-team
+
+terraform/                @platform-team @devops-team
+
+CONTRIBUTING.md           @infrastructure-team
